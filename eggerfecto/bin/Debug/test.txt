@@ -1,0 +1,5 @@
+Subtotal = $0.00
+GST = $0.00
+Total = $0.00
+Weight = 0g
+Delivery Cost = $0.00

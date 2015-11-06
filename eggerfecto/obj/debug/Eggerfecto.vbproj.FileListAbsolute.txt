@@ -1,0 +1,65 @@
+H:\I.T Software Development\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe.config
+H:\I.T Software Development\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe
+H:\I.T Software Development\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.pdb
+H:\I.T Software Development\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.xml
+H:\I.T Software Development\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Form1.resources
+H:\I.T Software Development\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Resources.resources
+H:\I.T Software Development\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.vbproj.GenerateResource.Cache
+H:\I.T Software Development\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.exe
+H:\I.T Software Development\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.xml
+H:\I.T Software Development\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.pdb
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe.config
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.exe
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.xml
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.pdb
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.pdb
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.xml
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Form1.resources
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Resources.resources
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto (2)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.vbproj.GenerateResource.Cache
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe.config
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.exe
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.xml
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.pdb
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.pdb
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.xml
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Form1.resources
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Resources.resources
+C:\Users\Louis\Dropbox\IT Work\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.vbproj.GenerateResource.Cache
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe.config
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.exe
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.xml
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.pdb
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Form1.resources
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Resources.resources
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.vbproj.GenerateResource.Cache
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.pdb
+C:\Users\Louis\Dropbox\Eggerfecto (4)\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.xml
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe.config
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.exe
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.xml
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.pdb
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.pdb
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.xml
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Form1.resources
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Resources.resources
+C:\Users\louinguy\Dropbox\IT WOrk\Eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.vbproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\IT WOrk\eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe.config
+D:\Dropbox\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.exe
+D:\Dropbox\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.xml
+D:\Dropbox\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.pdb
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe.config
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.exe
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.xml
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.pdb
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.exe
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.pdb
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\bin\Debug\Eggerfecto.xml
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.vbprojResolveAssemblyReference.cache
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Form1.resources
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.Resources.resources
+D:\Dropbox\IT WOrk\eggerfecto\Eggerfecto\obj\Debug\Eggerfecto.vbproj.GenerateResource.Cache
